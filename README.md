@@ -1,0 +1,5 @@
+- 👋 Hi, I’m K9
+- 👀 I’m interested in ... Becoming a full stack developer
+- 🌱 I’m currently learning ... Everything
+- 💞️ I’m looking to collaborate on ... Learning
+- 📫 How to reach me ...
